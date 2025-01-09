@@ -1,2 +1,7 @@
 Main Branch ver 0.1
-I highly recommend Sonic 3 go WATCH IT NOWWWW
+ <<<<<<< Dyl-branch
+  I highly recommend Sonic 3 go WATCH IT NOWWWW
+  =======
+
+This is me editing the branch to ver 0.2
+ >>>>>>> main
